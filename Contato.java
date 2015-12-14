@@ -1,6 +1,5 @@
 package br.caelum.jdbc.modelo;
 
-
 public class Contato {
 	private Long id;
 	private String nome;
